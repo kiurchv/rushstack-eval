@@ -459,6 +459,11 @@
     // }
 
     {
+      "packageName": "my-app",
+      "projectFolder": "apps/my-app"
+    },
+
+    {
       "packageName": "my-controls",
       "projectFolder": "libs/my-controls",
       "reviewCategory": "production"
