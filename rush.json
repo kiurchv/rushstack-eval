@@ -460,19 +460,22 @@
 
     {
       "packageName": "my-app",
-      "projectFolder": "apps/my-app"
+      "projectFolder": "apps/my-app",
+      "versionPolicyName": "common"
     },
 
     {
       "packageName": "my-controls",
       "projectFolder": "libs/my-controls",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "versionPolicyName": "common"
     },
 
     {
       "packageName": "my-toolchain",
       "projectFolder": "tools/my-toolchain",
-      "reviewCategory": "tools"
+      "reviewCategory": "tools",
+      "versionPolicyName": "common"
     }
   ]
 }
